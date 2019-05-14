@@ -15,10 +15,10 @@ import javax.swing.Timer;
 
 import com.github.sarxos.webcam.Webcam;
 
-public class CameraScreen {
+public class CameraScreenTest {
 	Image j = null;
 	public static void main(String[] args) {
-		CameraScreen cs = new CameraScreen();
+		CameraScreenTest cs = new CameraScreenTest();
 		cs.initialize();
 	}
 	private void initialize() {
